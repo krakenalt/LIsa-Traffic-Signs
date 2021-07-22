@@ -1,3 +1,7 @@
 # LIsa-Traffic-Signs
 
-https://www.pytorchlightning.ai/
+# Task
+
+#Technologies
+[Pytorch Lightning](https://www.pytorchlightning.ai/)
+[Albumentations](https://albumentations.ai/)

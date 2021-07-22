@@ -2,6 +2,6 @@
 
 # Task
 
-# Technologies \n
-[Pytorch Lightning](https://www.pytorchlightning.ai/) \n
-[Albumentations](https://albumentations.ai/)
+# Technologies  
+[Pytorch Lightning](https://www.pytorchlightning.ai/)  
+[Albumentations](https://albumentations.ai/)  
